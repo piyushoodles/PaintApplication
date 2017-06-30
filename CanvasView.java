@@ -1,12 +1,3 @@
-/**
- * CanvasView.java
- *
- * Copyright (c) 2014 Tomohiro IKEDA (Korilakkuma)
- * Released under the MIT license
- */
-
-package com.android.graphics;
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
